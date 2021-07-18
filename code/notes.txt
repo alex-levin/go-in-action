@@ -1,0 +1,5 @@
+cd chapter2\sample
+go mod init github.com/alex-levin/go-in-action
+go get github.com/goinaction/code/chapter2/sample/matchers
+go get github.com/goinaction/code/chapter2/sample/search
+go run main.go
